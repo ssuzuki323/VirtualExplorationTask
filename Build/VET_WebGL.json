@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "EffortExplorer",
+"productName": "VET",
 "productVersion": "0.1",
 "dataUrl": "VET_WebGL.data.unityweb",
 "wasmCodeUrl": "VET_WebGL.wasm.code.unityweb",
